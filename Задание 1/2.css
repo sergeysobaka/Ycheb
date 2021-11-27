@@ -1,0 +1,35 @@
+H1 {
+    color: #860c57;
+    font-size: 200%;
+    font-family: Arial;
+    text-align: center;
+  }
+  P {
+    padding-left: 16x;
+  }
+  H2 {
+    color: #850d7f;
+    font-size: 150%;
+    font-family: 'Monotype Corsiva';
+    text-align: left;
+  }
+  P {
+    padding-left: 16x;
+  }
+  H3 {
+    color: #70057e;
+    font-size: 150%;
+    font-family: 'Monotype Corsiva';
+    text-align: left;
+  }
+  P {
+    padding-left: 16x;
+  }
+  #tor {
+    background-color: rgb(126, 10, 10);
+    padding: 1em
+ }
+ .intro {
+  color: red;
+  font-weight: bold;
+}
